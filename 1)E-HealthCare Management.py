@@ -1,6 +1,3 @@
-#almost done
-# do not forget to check validations
-
 import abc
 import datetime
 
